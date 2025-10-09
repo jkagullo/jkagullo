@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm a Mobile Applications Developer Intern @ Stratpoint Technologies Inc.<br>📱 I’m currently learning Mobile Applications Development.<br> 🕸️View my portfolio: https://kaidev-three.vercel.app/
+💼 I'm a Mobile Applications Developer Intern @ Stratpoint Technologies Inc.<br>📱 I’m currently learning Mobile Applications Development.<br> 🕸️View my portfolio: [https://kaidev-three.vercel.app/](https://jkddev.vercel.app/)
 
 
 ## 🌐 Socials:
