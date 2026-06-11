@@ -1,10 +1,10 @@
 ## Hello! 👋
 - 🧑‍💻 Software Engineer @ [Stratpoint Technologies](https://stratpoint.com/)
 - 🛠️ I love developing Mobile and Web Applications
-- ✨ Currently: Working on an Expense Tracking App in React Native⚛️
+- ✨ Currently: Working on Web and Mobile apps (Void, Rawr)⚛️
 - 🤔 Curious and continuously learning/upskilling
 - ♾️ Planning to: Learn DevOps
-- 📃 Check out my: [Portfolio](https://jkddev.vercel.app/)
+- 📃 Check out my: [Portfolio](https://jkagullo.is-pinoy.dev/)
 
 
 ## 🌐 Socials:
