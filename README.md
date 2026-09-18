@@ -54,4 +54,6 @@
 
 ---
 
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=jkagullo)
+<p align="center">
+  ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=jkagullo)
+</p>
