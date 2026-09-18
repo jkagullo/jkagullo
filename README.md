@@ -23,10 +23,8 @@
 ### 🚀 What I'm Working On
 | Project | Stack | Description |
 |---|---|---|
-| **Void** | React Native, Supabase | Mobile app project |
-| **Rawr** | Next.js, TypeScript | Web app project |
-
-*(swap in your actual project taglines/links here)*
+| **Checker** | Next.JS, Supabase | Full-stack Web App |
+| **Pursuit** | Next.js, TypeScript | Full-stack Web App |
 
 ---
 
@@ -53,3 +51,7 @@
   <a href="https://jkagullo.is-pinoy.dev"><img src="https://badges.is-pinoy.dev/badge?type=certified&theme=dark" /></a>
   <a href="https://jkagullo.is-pinoy.dev"><img src="https://badges.is-pinoy.dev/badge/jkagullo?type=member&theme=dark" /></a>
 </p>
+
+---
+
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=jkagullo)
