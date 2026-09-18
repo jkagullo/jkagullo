@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm JK 👋</h1>
 
 <p align="center">
-  Software Engineer building mobile and web apps — React Native by day, leveling up in Next.js on the side.
+  Software Engineer - Chill Guy
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Software Engineer @ [Stratpoint Technologies](https://stratpoint.com/), building mobile apps for enterprise clients
+- 💼 Software Engineer @ [Stratpoint Technologies](https://stratpoint.com/)
 - 🛠️ Focused on **React Native** and **Next.js** — full-stack across mobile and web
 - 🌱 Currently upskilling in **DevOps** — CI/CD, containers, and cloud deployment
 - 🇵🇭 Based in Metro Manila, Philippines
